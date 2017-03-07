@@ -1,0 +1,6 @@
+C:\Projects\C#\PianoTile\PianoTile\PianoTile\bin\x86\Debug\PianoTile.exe
+C:\Projects\C#\PianoTile\PianoTile\PianoTile\bin\x86\Debug\PianoTile.pdb
+C:\Projects\C#\PianoTile\PianoTile\PianoTile\obj\x86\Debug\PianoTile.csprojResolveAssemblyReference.cache
+C:\Projects\C#\PianoTile\PianoTile\PianoTile\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Projects\C#\PianoTile\PianoTile\PianoTile\obj\x86\Debug\PianoTile.exe
+C:\Projects\C#\PianoTile\PianoTile\PianoTile\obj\x86\Debug\PianoTile.pdb
