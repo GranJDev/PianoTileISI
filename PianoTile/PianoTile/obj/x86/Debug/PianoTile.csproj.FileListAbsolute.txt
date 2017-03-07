@@ -4,3 +4,12 @@ C:\Projects\C#\PianoTile\PianoTile\PianoTile\obj\x86\Debug\PianoTile.csprojResol
 C:\Projects\C#\PianoTile\PianoTile\PianoTile\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Projects\C#\PianoTile\PianoTile\PianoTile\obj\x86\Debug\PianoTile.exe
 C:\Projects\C#\PianoTile\PianoTile\PianoTile\obj\x86\Debug\PianoTile.pdb
+C:\Users\Epulapp\Documents\Polytech\3A\ISI\PianoTileISI\PianoTile\PianoTile\bin\x86\Debug\PianoTile.exe
+C:\Users\Epulapp\Documents\Polytech\3A\ISI\PianoTileISI\PianoTile\PianoTile\bin\x86\Debug\PianoTile.pdb
+C:\Users\Epulapp\Documents\Polytech\3A\ISI\PianoTileISI\PianoTile\PianoTile\obj\x86\Debug\PianoTile.csprojResolveAssemblyReference.cache
+C:\Users\Epulapp\Documents\Polytech\3A\ISI\PianoTileISI\PianoTile\PianoTile\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Epulapp\Documents\Polytech\3A\ISI\PianoTileISI\PianoTile\PianoTile\obj\x86\Debug\PianoTile.exe
+C:\Users\Epulapp\Documents\Polytech\3A\ISI\PianoTileISI\PianoTile\PianoTile\obj\x86\Debug\PianoTile.pdb
+C:\Users\Epulapp\Documents\Polytech\3A\ISI\PianoTileISI\PianoTile\PianoTile\bin\x86\Debug\Content\background.xnb
+C:\Users\Epulapp\Documents\Polytech\3A\ISI\PianoTileISI\PianoTile\PianoTile\bin\x86\Debug\Content\blackTile.xnb
+C:\Users\Epulapp\Documents\Polytech\3A\ISI\PianoTileISI\PianoTile\PianoTile\bin\x86\Debug\Content\whiteTile.xnb

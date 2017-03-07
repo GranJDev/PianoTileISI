@@ -20,11 +20,23 @@ namespace PianoTile
     public class Game1 : Microsoft.Xna.Framework.Game
     {
         GraphicsDeviceManager graphics;
+        
+        // Create an instance of Texture2D that will
+        // contain the background texture.
+        Texture2D background;
+ 
+        // Create a Rectangle that will define
+        // the limits for the main game screen.
+        Rectangle mainFrame;
+
         SpriteBatch spriteBatch;
 
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
+            graphics.IsFullScreen = false;
+            graphics.PreferredBackBufferHeight = 868;
+            graphics.PreferredBackBufferWidth = 292;
             Content.RootDirectory = "Content";
         }
 
@@ -37,20 +49,18 @@ namespace PianoTile
         protected override void Initialize()
         {
             // TODO: Add your initialization logic here
+            spriteBatch = new SpriteBatch(GraphicsDevice);
 
             base.Initialize();
         }
 
-        /// <summary>
-        /// LoadContent will be called once per game and is the place to load
-        /// all of your content.
-        /// </summary>
+
         protected override void LoadContent()
         {
-            // Create a new SpriteBatch, which can be used to draw textures.
-            spriteBatch = new SpriteBatch(GraphicsDevice);
-
-            // TODO: use this.Content to load your game content here
+            // Load the background content.
+            background = Content.Load<Texture2D>(@"background");
+            // Set the rectangle parameters.
+            mainFrame = new Rectangle(0, 0, GraphicsDevice.Viewport.Width, GraphicsDevice.Viewport.Height);
         }
 
         /// <summary>
@@ -86,9 +96,22 @@ namespace PianoTile
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
-            // TODO: Add your drawing code here
 
+           // Start building the sprite.
+            spriteBatch.Begin();
+            
+            // Draw the background.
+            spriteBatch.Draw(background, mainFrame, Color.White);
+
+            // End building the sprite.
+            spriteBatch.End();
+
+
+            // TODO: Add your drawing code here
             base.Draw(gameTime);
         }
+
+
+
     }
 }

@@ -1,1 +1,2 @@
 C:\Projects\C#\PianoTile\PianoTile\PianoTileContent\obj\x86\Debug\PianoTileContent.contentprojResolveAssemblyReference.cache
+C:\Users\Epulapp\Documents\Polytech\3A\ISI\PianoTileISI\PianoTile\PianoTileContent\obj\x86\Debug\PianoTileContent.contentprojResolveAssemblyReference.cache
